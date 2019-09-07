@@ -1,0 +1,2 @@
+# chenzikang
+my first repository
